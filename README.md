@@ -1,4 +1,4 @@
-![Screenshot](https://i.imgur.com/Iru5hHv.png)
+![Screenshot](https://i.imgur.com/5y7nhOO.png)
 
 # rEFInd-splash
 rEFInd-splash is a swimming pool theme with colourful pool toy icons for the rEFInd UEFI Boot Manager
