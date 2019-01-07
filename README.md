@@ -41,3 +41,4 @@ Initial release of rEFInd-splash theme to DeviantArt.
 
 December 31, 2018: rEFInd-splash theme uploaded to github.
 
+January 6, 2018: Added icon for Sparky Linux
